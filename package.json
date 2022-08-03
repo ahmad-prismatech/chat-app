@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "demo chat app",
   "main": "index.js",
+  "engines": {
+    "node": "16.15.1",
+    "npm": "8.11.1"
+  },
   "scripts": {
     "test": "jasmine",
     "start": "nodemon server.js"
